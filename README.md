@@ -2,7 +2,7 @@ Function that reads any valid file and retrieves every line available.
 
 First, git clone the whole depository using command :
 
-git clone https://github.com/Minh42/42_project-getnextline [name]
+git clone https://github.com/KremenVal/GetNextLine.git
 
 Run makefile to compile using command:
 
